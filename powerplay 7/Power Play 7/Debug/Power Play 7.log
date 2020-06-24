@@ -1,0 +1,8 @@
+﻿  Item.cpp
+  Monster.cpp
+  Object.cpp
+  Player.cpp
+C:\Users\austi\Desktop\powerplay 7\Player.cpp(119,36): warning C4018: '<=': signed/unsigned mismatch
+  Source_7.cpp
+  Generating Code...
+  Power Play 7.vcxproj -> C:\Users\austi\Desktop\powerplay 7\Power Play 7\Debug\Power Play 7.exe
